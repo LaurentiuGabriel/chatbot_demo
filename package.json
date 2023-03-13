@@ -1,0 +1,14 @@
+{
+  "name": "openai_demo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "expo-cli": "^6.3.2",
+    "openai": "^3.2.1",
+    "react": "^18.2.0",
+    "react-native": "^0.71.4"
+  }
+}

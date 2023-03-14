@@ -10,7 +10,7 @@ npm install
 # Usage
 To use the project, start the development server by running the following command:
 ```
-npm start
+expo start
 ```
 This will start the Metro bundler, which you can use to build and run the project in the iOS or Android simulator.
 

@@ -14,7 +14,7 @@ const Main = () => {
 
   const handleInput = async () => {
     try {
-        const userInput =  input
+        const userInput = input
         const response = await openai.createCompletion({
         model: "text-davinci-003",
         prompt: `You: ${userInput}\nAI:`,
